@@ -1,0 +1,21 @@
+.block_featured_courses .course-image {
+    background-size: contain;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.block_featured_courses .thumbnail {
+    height: 300px;
+}
+.block_featured_courses .link i {
+    width: 24px;
+    height: 24px;
+}
+
+/* To fix oval button. */
+.block_featured_courses .rounded-circle {
+    width: 2rem;
+    height: 2rem;
+}
